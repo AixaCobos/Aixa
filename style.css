@@ -1,0 +1,72 @@
+img{ display:block;
+  border-radius: 70px;
+  border: 10px solid rgb(135, 187, 224);
+   margin:auto;
+  }
+  
+  
+  h1 {font-size:60
+  
+  }
+ 
+  h3 {color: rgb(6, 4, 61)
+  
+  }
+  
+  h3 {text-decoration: underline;
+  
+  }
+ 
+  p { line-height: 100%;
+    font-size:20
+  }
+
+
+h4 { line-height: 100%;
+  font-size:20
+}
+
+
+body{ text-align:center; 
+
+}
+
+body @font-face {
+  font-family: 'Bree Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bree Serif Regular'), local('BreeSerif-Regular'), url(https://fonts.gstatic.com/s/breeserif/v9/4UaHrEJCrhhnVA3DgluA96Tp56N1.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+body {background-color: rgb(195, 241, 240);
+
+}
+
+body h1 {color: rgb(13, 82, 107);
+
+}
+
+ 
+
+  .caja { 
+    width: 550px;
+    border-radius: 25px;
+    margin:auto;
+    font-family: sans-serif; 
+    font-size: 50px; 
+    color:rgba(5, 7, 46, 0.87);
+    background:rgb(84, 84, 223)
+}
+
+h2 { 
+    width: 1250px;
+    border-radius: 25px;
+    margin:auto;
+    font-family: sans-serif; 
+    font-size: 30px; 
+    color:rgba(5, 7, 46, 0.87);
+    background:rgb(84, 84, 223)
+     }
+  
+  
